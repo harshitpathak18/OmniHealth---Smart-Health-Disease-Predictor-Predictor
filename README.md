@@ -18,7 +18,7 @@ OmniHealth is a comprehensive web application that serves as a smart health dise
   </p>
 
 ## 🤖 Baymax 
-  ![Image Name](logos\Gemini_Generated_Image_uq9xr9uq9xr9uq9x-removebg-preview.png)
+  ![Image Name](logos/Gemini_Generated_Image_uq9xr9uq9xr9uq9x-removebg-preview.png)
   
 
 ## 🎨 Features
