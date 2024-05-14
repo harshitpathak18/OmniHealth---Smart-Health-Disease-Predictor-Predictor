@@ -18,6 +18,16 @@ OmniHealth is a comprehensive web application that serves as a smart health dise
     <img src="logos/pneumonia_logo.jpeg" width="150" />
   </p>
 
+  <p float="left">
+    <span>Malaria</span>
+    <span>Malaria</span>
+    <span>Malaria</span>
+    <span>Malaria</span>
+    <span>Malaria</span>
+    <span>Malaria</span>
+  </p>
+
+
 - Interactive user interface with symptom selection and diagnostic input.
 - Visual representation of disease information using images and text.
 - Integration with machine learning models for accurate predictions.
