@@ -6,44 +6,23 @@ OmniHealth: Smart Health Disease Predictor & Baymax Health Assistant
 
 OmniHealth is a comprehensive web application that serves as a smart health disease predictor and includes a health assistant named Baymax. The project aims to provide users with an intuitive platform for predicting various diseases based on symptoms and diagnostic tests. Additionally, Baymax offers personalized health assistance and guidance to users.
 
-## 🎨 Features
 
-#### Disease prediction for Malaria, Alzheimer's, Kidney Disease, Heart Diseases, Diabetes, and Pneumonia.
+## <span style="color:red;">👨‍⚕️+</span> Diseases 
   <p float="left">
-  <div style="text-align:center;">
     <img src="logos/malaria_logo.jpeg" width="150" />
-    <br />
-    Malaria
-  </div>
-  <div style="text-align:center;">
     <img src="logos/alzheimer_logo.jpeg" width="150" />
-    <br />
-    Alzheimer
-  </div>
-  <div style="text-align:center;">
     <img src="logos/kidney_logo.jpeg" width="150" />
-    <br />
-    Kidney
-  </div>
-  <div style="text-align:center;">
     <img src="logos/heart_logo.jpeg" width="150" />
-    <br />
-    Heart
-  </div>
-  <div style="text-align:center;">
     <img src="logos/diabetes_logo.jpeg" width="150" />
-    <br />
-    Diabetes
-  </div>
-  <div style="text-align:center;">
     <img src="logos/pneumonia_logo.jpeg" width="150" />
-    <br />
-    Pneumonia
-  </div>
-</p>
+  </p>
 
+## 🤖 Baymax 
+  ![Image Name](logos\Gemini_Generated_Image_uq9xr9uq9xr9uq9x-removebg-preview.png)
+  
 
-
+## 🎨 Features
+- Disease prediction for Malaria, Alzheimer's, Kidney Disease, Heart Diseases, Diabetes, and Pneumonia.
 - Interactive user interface with symptom selection and diagnostic input.
 - Visual representation of disease information using images and text.
 - Integration with machine learning models for accurate predictions.
