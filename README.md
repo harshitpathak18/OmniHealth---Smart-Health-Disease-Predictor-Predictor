@@ -1,53 +1,31 @@
-# Project Title
+# 🚀 Project Title
 
-Short description or overview of the project.
+OmniHealth: Smart Health Disease Predictor & Baymax Health Assistant
 
-## Table of Contents
+## 📝 Overview
 
-- [Project Title](#project-title)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgements](#acknowledgements)
+OmniHealth is a comprehensive web application that serves as a smart health disease predictor and includes a health assistant named Baymax. The project aims to provide users with an intuitive platform for predicting various diseases based on symptoms and diagnostic tests. Additionally, Baymax offers personalized health assistance and guidance to users.
 
-## Introduction
+## 🎨 Features
 
-A brief introduction to the project. Describe its purpose, features, and any relevant information.
+- Disease prediction for Malaria, Alzheimer's, Kidney Disease, Heart Diseases, Diabetes, and Pneumonia.
+- Interactive user interface with symptom selection and diagnostic input.
+- Visual representation of disease information using images and text.
+- Integration with machine learning models for accurate predictions.
+- Baymax Health Assistant for personalized health guidance and assistance.
 
-## Features
+## 🛠️ Getting Started
 
-- List of key features or functionalities of the project.
+### Screnshots
 
-## Getting Started
 
-Instructions for setting up the project locally.
+## 📋 Usage
 
-### Prerequisites
+1. Select a disease from the dropdown menu.
+2. Follow the instructions to upload relevant diagnostic images or input diagnostic data.
+3. Click the "Predict" button to get the prediction results.
+4. View the prediction outcome and recommended treatments.
+5. Access Baymax Health Assistant for personalized health advice and assistance.
 
-List of software dependencies or tools required to run the project.
-
-### Installation
-
-Step-by-step guide on how to install and configure the project.
-
-## Usage
-
-Instructions on how to use the project, including examples or screenshots if applicable.
-
-## Contributing
-
-Guidelines for contributing to the project. Include information on how to submit bug reports, suggest new features, or contribute code.
-
-## License
-
-Information about the project's license. Choose an appropriate license for your project and provide details about it.
-
-## Acknowledgements
-
-Acknowledgements and credits to individuals, organizations, or projects that contributed to the development of your project.
+## 🤝 Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
