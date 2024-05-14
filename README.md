@@ -10,12 +10,12 @@ OmniHealth is a comprehensive web application that serves as a smart health dise
 
 #### Disease prediction for Malaria, Alzheimer's, Kidney Disease, Heart Diseases, Diabetes, and Pneumonia.
   <p float="left">
-    <img src="logos/malaria_logo.jpeg" width="50" />
-    <img src="logos/alzheimer_logo.jpeg" width="50" />
-    <img src="logos/kidney_logo.jpeg" width="50" />
-    <img src="logos/heart_logo.jpeg" width="50" />
-    <img src="logos/diabetes_logo.jpeg" width="50" />
-    <img src="logos/pneumonia_logo.jpeg" width="50" />
+    <img src="logos/malaria_logo.jpeg" width="200" />
+    <img src="logos/alzheimer_logo.jpeg" width="200" />
+    <img src="logos/kidney_logo.jpeg" width="200" />
+    <img src="logos/heart_logo.jpeg" width="200" />
+    <img src="logos/diabetes_logo.jpeg" width="200" />
+    <img src="logos/pneumonia_logo.jpeg" width="200" />
   </p>
 
 - Interactive user interface with symptom selection and diagnostic input.
