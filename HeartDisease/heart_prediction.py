@@ -1,7 +1,7 @@
 import numpy as np
 import pickle
 
-model = pickle.load(open(r'C:\Users\DELL\Desktop\OmniHealth\HeartDisease\Heart_Diseases_pipeline.pkl','rb'))
+model = pickle.load(open(r'OmniHealth\HeartDisease\Heart_Diseases_pipeline.pkl','rb'))
 
 
 def prediction(input_data):
