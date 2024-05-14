@@ -20,7 +20,6 @@ OmniHealth is a comprehensive web application that serves as a smart health dise
 ![Image Name](Screenshots/1.png)
 ![Image Name](Screenshots/2.png)
 ![Image Name](Screenshots/3.png)
-![Image Name](Screenshots/4.png)
 ![Image Name](Screenshots/5.png)
 ![Image Name](Screenshots/6.png)
 ![Image Name](Screenshots/7.png)
