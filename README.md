@@ -27,7 +27,7 @@ OmniHealth is a comprehensive web application that serves as a smart health dise
 - Interactive user interface with symptom selection and diagnostic input.
 - Visual representation of disease information using images and text.
 - Integration with machine learning models for accurate predictions.
-- Baymax Health Assistant for personalized health guidance and assistance.
+- Baymax Health Assistant for personalized health guidance and assistance. 
 
 ## 🛠️ Getting Started
 
