@@ -69,7 +69,7 @@ def main():
     st.markdown("""<h4><center>About OmniHealth</center></h4>""", unsafe_allow_html=True)
     st.write("""**OmniHealth** is an advanced healthcare platform that leverages machine learning and deep learning techniques to predict various diseases. Our state-of-the-art models analyze medical data to provide accurate predictions, helping patients and healthcare professionals make informed decisions about their health.""")
 
-    st.subheader("About Diseases, Symptoms, Cure, Prevention & Model Acuuracies")
+    st.subheader("About Diseases, Symptoms, Cure & Prevention")
     disease_data = {
         "Malaria": {
             "Symptoms": "- Fever & Chills\n- Headache\n- Muscle pain\n- Nausea\n- Vomiting",
