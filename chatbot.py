@@ -3,7 +3,9 @@ import os
 import streamlit as st
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyCn5BtlnY1xwzvQm_MgMlUIHIxJ_AyT7Tk")
+api_key = ""
+
+genai.configure(api_key=f"{api_key}")
 
 st.markdown("""
     <style>
