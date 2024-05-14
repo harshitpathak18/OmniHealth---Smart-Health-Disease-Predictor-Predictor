@@ -1,6 +1,6 @@
 import pickle
 
-model  = pickle.load(open(r"C:\Users\DELL\Desktop\OmniHealth\Diabetes\Diabetes_Pipeline.pkl",'rb'))
+model  = pickle.load(open(r"OmniHealth\Diabetes\Diabetes_Pipeline.pkl",'rb'))
 
 def prediction(input_data):
     import numpy as np
