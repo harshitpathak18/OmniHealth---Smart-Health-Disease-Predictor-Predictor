@@ -9,12 +9,12 @@ OmniHealth is a comprehensive web application that serves as a smart health dise
 
 ## <span style="color:red;">👨‍⚕️+</span> Diseases 
   <p float="left">
-    <img src="logos/malaria_logo.jpeg" width="150" />
-    <img src="logos/alzheimer_logo.jpeg" width="150" />
-    <img src="logos/kidney_logo.jpeg" width="150" />
-    <img src="logos/heart_logo.jpeg" width="150" />
-    <img src="logos/diabetes_logo.jpeg" width="150" />
-    <img src="logos/pneumonia_logo.jpeg" width="150" />
+    <img src="logos/malaria_logo.jpeg" width="125" />
+    <img src="logos/alzheimer_logo.jpeg" width="125" />
+    <img src="logos/kidney_logo.jpeg" width="125" />
+    <img src="logos/heart_logo.jpeg" width="125" />
+    <img src="logos/diabetes_logo.jpeg" width="125" />
+    <img src="logos/pneumonia_logo.jpeg" width="125" />
   </p>
 
 ## 🤖 Baymax 
