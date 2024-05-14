@@ -19,7 +19,7 @@ OmniHealth is a comprehensive web application that serves as a smart health dise
 
 ## 🤖 Baymax 
   Baymax is an AI-powered health assistant integrated into our project, designed to provide personalized health assistance and support to users.
-  <img src="logos/Gemini_Generated_Image_uq9xr9uq9xr9uq9x-removebg-preview.png" width="350" />
+  <center><img src="logos/Gemini_Generated_Image_uq9xr9uq9xr9uq9x-removebg-preview.png" width="300" /></center> 
   
 
 ## 🎨 Features
