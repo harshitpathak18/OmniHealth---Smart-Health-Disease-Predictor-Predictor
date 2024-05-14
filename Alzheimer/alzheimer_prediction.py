@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.preprocessing import image
 from keras.models import load_model
 
-model = load_model(r'C:\Users\DELL\Desktop\OmniHealth\Alzheimer\Alzheimer_88_acc.h5')  
+model = load_model(r'OmniHealth\Alzheimer\Alzheimer_88_acc.h5')  
 
 def prediction(img_path):
     img = image.load_img(img_path, target_size=(150, 150))
