@@ -3,7 +3,7 @@ import pickle
 import joblib
 
 
-model = pickle.load(open(r'C:\Users\DELL\Desktop\OmniHealth\Kidney\Kidney_Pipeline.pkl','rb'))
+model = pickle.load(open(r'OmniHealth\Kidney\Kidney_Pipeline.pkl','rb'))
 
 
 def prediction(input_data):
